@@ -1,1 +1,1 @@
-“# leetcode_python_detail”
+“# leetcode_golang_detail”
